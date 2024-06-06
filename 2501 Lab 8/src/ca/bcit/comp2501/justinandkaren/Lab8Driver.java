@@ -45,7 +45,7 @@ public class Lab8Driver
     }
 
     /**
-     * Displays the contents of the HashMap to the console, calling Student.toString() for each Student.
+     * Displays the contents of the HashMap.
      */
     public void showStudents()
     {
