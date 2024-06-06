@@ -3,7 +3,7 @@ package ca.bcit.comp2501.justinandkaren;
 // Import statements
 
 /**
- * Represents a Student's'first name, last name, ID number, birth year, percentage grade, and pass status.
+ * Represents a Student's first name, last name, ID number, birth year, percentage grade, and pass status.
  * @author Karen Lim
  * @author Justin Cardas
  * Version 1.0
